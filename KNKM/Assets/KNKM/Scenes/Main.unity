@@ -1640,6 +1640,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: bb65f2ab3cceae94ab50ca47f7e523c2,
     type: 2}
   programSource: {fileID: 11400000, guid: 5fd2ff77c3ee88940b2d5e6ccb97ef58, type: 2}
@@ -2078,6 +2079,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 6767dbce375cb694fbd9d353365ca5c8,
     type: 2}
   programSource: {fileID: 11400000, guid: 416bb75202b4b0e409e211d8d7bc14ed, type: 2}
@@ -2868,6 +2870,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 08fbb9b12eb48be49b987e9d07a7a079,
     type: 2}
   programSource: {fileID: 11400000, guid: a83d9f6aaf677574abce9ecf419a4ac8, type: 2}
@@ -3472,6 +3475,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: c199c83642cefe94899d3d4bcc1acc3b,
     type: 2}
   programSource: {fileID: 11400000, guid: 941e5eb7b030fc54abf3f23419b7ac50, type: 2}
@@ -3594,6 +3598,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: a1863bbd0b48cd148bd42d1536e928b4,
     type: 2}
   programSource: {fileID: 11400000, guid: 5417319976ff0b54eb76c6a6af143513, type: 2}
@@ -6537,6 +6542,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 02a05af08519cb84890eace9bcaac6ba,
     type: 2}
   programSource: {fileID: 11400000, guid: daa2502a16f9a3b4780f1a4ef6de241c, type: 2}
@@ -7298,6 +7304,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 08fbb9b12eb48be49b987e9d07a7a079,
     type: 2}
   programSource: {fileID: 11400000, guid: a83d9f6aaf677574abce9ecf419a4ac8, type: 2}
@@ -7337,6 +7344,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 69b51a20afd441a4e9b9cbb0f180f848,
     type: 2}
   programSource: {fileID: 11400000, guid: 02b70516f43604e459a4a4234f9eb484, type: 2}
@@ -7837,6 +7845,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: a1863bbd0b48cd148bd42d1536e928b4,
     type: 2}
   programSource: {fileID: 11400000, guid: 5417319976ff0b54eb76c6a6af143513, type: 2}
@@ -9296,6 +9305,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 17fe54d23db384a48a0bce1ff89d8fff,
     type: 2}
   programSource: {fileID: 11400000, guid: 08d5f8558304023429e945dddf1f2927, type: 2}
@@ -10033,6 +10043,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 063ecbe22274b854c9bfc0a137c1fdd3,
     type: 2}
   programSource: {fileID: 11400000, guid: 4fd3a0879b2e98745a6974fcf96259d7, type: 2}
@@ -11797,6 +11808,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: a1a3d91a2f6774247b471b05aa0b4d45,
     type: 2}
   programSource: {fileID: 11400000, guid: 33996381d7a81794eb2c2673c2a999b8, type: 2}
@@ -12120,6 +12132,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: b4136c1b96b044b4f881e0334c140a31,
     type: 2}
   programSource: {fileID: 11400000, guid: c8df303ceb45ae84f85a11591f741734, type: 2}
@@ -12760,6 +12773,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 5dcf0c59aba4cb8498007da48986bece,
     type: 2}
   programSource: {fileID: 11400000, guid: 6e22ae2a5f2443e4499c543af4bc99dc, type: 2}
@@ -14420,6 +14434,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: c4b40580d7fbcdd45805ff6bab22d94f,
     type: 2}
   programSource: {fileID: 11400000, guid: 342301edf23f08449870798cacf72c08, type: 2}
@@ -16548,6 +16563,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 9766388b47a42514fa7429c2ccadf5c9,
     type: 2}
   programSource: {fileID: 11400000, guid: 88b0104cb3a35224889e37f1bbc8b492, type: 2}
@@ -17812,6 +17828,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 33c6c971c579dd942b8bd91103716cc0,
     type: 2}
   programSource: {fileID: 11400000, guid: 5690f6681e29c2d41aa18b3c62a1df86, type: 2}
@@ -19156,6 +19173,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 02a05af08519cb84890eace9bcaac6ba,
     type: 2}
   programSource: {fileID: 11400000, guid: daa2502a16f9a3b4780f1a4ef6de241c, type: 2}
@@ -19501,6 +19519,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: c00885c01c96b5f45b5c75f89e097d3f,
     type: 2}
   programSource: {fileID: 11400000, guid: 3d18317902f0f43408364b7182701b5c, type: 2}
@@ -19593,6 +19612,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 2e88f4757b377dc4eb7005008435df0b,
     type: 2}
   programSource: {fileID: 11400000, guid: fff807a210681fa4faaebc1fcb31fd3b, type: 2}
@@ -21321,6 +21341,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: b426a8f4ba64716479f4e3864013ea44,
     type: 2}
   programSource: {fileID: 11400000, guid: d4f0981d8afc1ff418a14fe2d7ed66eb, type: 2}
@@ -22336,6 +22357,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 012e066e74afb86418b8f5d7b2add3a4,
     type: 2}
   programSource: {fileID: 11400000, guid: 62233925499511f4aaf41fb5008daede, type: 2}
@@ -22693,6 +22715,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 984b05cf614a778468859c6b62ce8397,
     type: 2}
   programSource: {fileID: 11400000, guid: 7e078a054427be046b177e166222c1d3, type: 2}
@@ -24986,6 +25009,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 1
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 733daaca581cf0c408b3938065476e7d,
     type: 2}
   programSource: {fileID: 11400000, guid: aa0b0350ce937204abf0873115b6a685, type: 2}

@@ -2267,6 +2267,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRCWorld
       objectReference: {fileID: 0}
+    - target: {fileID: 1415578911040940289, guid: 8894fa7e4588a5c4fab98453e558847d,
+        type: 3}
+      propertyPath: serializedProgramAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: b4136c1b96b044b4f881e0334c140a31,
+        type: 2}
     - target: {fileID: 6759095419728963412, guid: 8894fa7e4588a5c4fab98453e558847d,
         type: 3}
       propertyPath: unityVersion
@@ -2376,6 +2382,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 35583a01631024a44924999a42f6af9e,
     type: 2}
   programSource: {fileID: 11400000, guid: bc2542e2d2b2bf64192aa451fee131f4, type: 2}
@@ -2490,6 +2497,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: 35583a01631024a44924999a42f6af9e,
     type: 2}
   programSource: {fileID: 11400000, guid: bc2542e2d2b2bf64192aa451fee131f4, type: 2}
@@ -2519,6 +2527,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: a1a3d91a2f6774247b471b05aa0b4d45,
     type: 2}
   programSource: {fileID: 11400000, guid: 33996381d7a81794eb2c2673c2a999b8, type: 2}
@@ -2561,6 +2570,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: a1a3d91a2f6774247b471b05aa0b4d45,
     type: 2}
   programSource: {fileID: 11400000, guid: 33996381d7a81794eb2c2673c2a999b8, type: 2}
@@ -2590,6 +2600,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: b426a8f4ba64716479f4e3864013ea44,
     type: 2}
   programSource: {fileID: 11400000, guid: d4f0981d8afc1ff418a14fe2d7ed66eb, type: 2}
@@ -2799,6 +2810,7 @@ MonoBehaviour:
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
+  _syncMethod: 0
   serializedProgramAsset: {fileID: 11400000, guid: c00885c01c96b5f45b5c75f89e097d3f,
     type: 2}
   programSource: {fileID: 11400000, guid: 3d18317902f0f43408364b7182701b5c, type: 2}
