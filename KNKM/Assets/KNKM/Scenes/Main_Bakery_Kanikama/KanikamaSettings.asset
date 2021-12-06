@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c7d89c16e218f47bfa3cde5d39b1bd, type: 3}
+  m_Name: KanikamaSettings
+  m_EditorClassIdentifier: 
+  sceneAsset: {fileID: 102900000, guid: ad401ca6b25f07845898fbe457b68870, type: 3}
+  lightmapperType: 1
+  directionalMode: 1
+  createRenderTexture: 0
+  createCustomRenderTexture: 0
+  bakedAsset:
+    kanikamaMapArrays:
+    - {fileID: 18700000, guid: 2dad7b13080617643a0c8e27437b9872, type: 2}
+    - {fileID: 18700000, guid: 57fd2b49d73bdf0408e5da814d0553bf, type: 2}
+    - {fileID: 18700000, guid: cb72627dfc15c614aa0be055f206c6fd, type: 2}
+    - {fileID: 18700000, guid: 6a20c3f2b6745d8488dcba5e38ae93d5, type: 2}
+    kanikamaDirectionalMapArrays:
+    - {fileID: 18700000, guid: 49f6d63e12f59774d985b7d7c371e96a, type: 2}
+    - {fileID: 18700000, guid: 4b2e6047968b96a4a983bc32984c0e6c, type: 2}
+    - {fileID: 18700000, guid: 31a568bd800cbde40a23714611e2abf4, type: 2}
+    - {fileID: 18700000, guid: 7e88bd474aa9c2941bada32a247ac3c4, type: 2}
+    customRenderTextures: []
+    customRenderTextureMaterials: []
+    renderTextures: []
+    renderTextureMaterials: []

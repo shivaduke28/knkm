@@ -108,3 +108,11 @@ Assets/Udon.meta
 # Kanikama
 /Assets/Kanikama/
 /Assets/Kanikama.meta
+
+/Assets/Bakery/
+/Assets/Bakery.meta
+/Assets/Editor/x64/Bakery/
+/Assets/Editor/x64/Bakery.meta
+
+/Assets/Settings/BakeryProjectSettings.asset
+/Assets/Settings/BakeryProjectSettings.asset.meta

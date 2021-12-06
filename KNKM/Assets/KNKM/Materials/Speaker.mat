@@ -67,7 +67,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.254
     - _GlossyReflections: 1
-    - _Kanikama_Mode: 1
+    - _Kanikama_Mode: 2
+    - _Kanikama_Specular: 0
     - _Metallic: 0.125
     - _Mode: 0
     - _OcclusionStrength: 1
