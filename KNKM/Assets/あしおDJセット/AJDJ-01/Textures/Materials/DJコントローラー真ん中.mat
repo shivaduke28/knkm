@@ -9,7 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: "DJ\u30B3\u30F3\u30C8\u30ED\u30FC\u30E9\u30FC\u771F\u3093\u4E2D"
   m_Shader: {fileID: 4800000, guid: 613fb6b242a059c40be003a3f0ec5826, type: 3}
-  m_ShaderKeywords: _EMISSION _KANIKAMA_MODE_ARRAY _METALLICGLOSSMAP _NORMALMAP
+  m_ShaderKeywords: _EMISSION _KANIKAMA_MODE_ARRAY _KANIKAMA_SPECULAR _METALLICGLOSSMAP
+    _NORMALMAP
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -63,7 +64,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Kanikama_Mode: 1
+    - _Kanikama_Mode: 2
+    - _Kanikama_Specular: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1

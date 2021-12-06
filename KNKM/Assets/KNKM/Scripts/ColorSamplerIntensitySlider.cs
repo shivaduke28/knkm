@@ -9,7 +9,7 @@ namespace KNKM
     public class ColorSamplerIntensitySlider : UdonSharpBehaviour
     {
         [SerializeField] Slider slider;
-        [SerializeField] private Kanikama.Udon.KanikamaColorSampler sampler;
+        [SerializeField] private Kanikama.Udon.KanikamaCamera kanikamaCamera;
         [UdonSynced, FieldChangeCallback(nameof(SyncedValue))]
         float syncedValue;
         public float SyncedValue
@@ -23,7 +23,7 @@ namespace KNKM
                     slider.value = value;
                 }
                 syncedValue = value;
-                sampler.intensity = value;
+                kanikamaCamera.intensity = value;
                 deserializing = false;
             }
         }
