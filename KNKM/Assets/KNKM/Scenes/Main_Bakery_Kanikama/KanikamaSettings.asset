@@ -18,8 +18,16 @@ MonoBehaviour:
   createRenderTexture: 0
   createCustomRenderTexture: 0
   bakedAsset:
-    kanikamaMapArrays: []
-    kanikamaDirectionalMapArrays: []
+    kanikamaMapArrays:
+    - {fileID: 18700000, guid: 2dad7b13080617643a0c8e27437b9872, type: 2}
+    - {fileID: 18700000, guid: 57fd2b49d73bdf0408e5da814d0553bf, type: 2}
+    - {fileID: 18700000, guid: cb72627dfc15c614aa0be055f206c6fd, type: 2}
+    - {fileID: 18700000, guid: 6a20c3f2b6745d8488dcba5e38ae93d5, type: 2}
+    kanikamaDirectionalMapArrays:
+    - {fileID: 18700000, guid: 49f6d63e12f59774d985b7d7c371e96a, type: 2}
+    - {fileID: 18700000, guid: 4b2e6047968b96a4a983bc32984c0e6c, type: 2}
+    - {fileID: 18700000, guid: 31a568bd800cbde40a23714611e2abf4, type: 2}
+    - {fileID: 18700000, guid: 7e88bd474aa9c2941bada32a247ac3c4, type: 2}
     customRenderTextures: []
     customRenderTextureMaterials: []
     renderTextures: []
