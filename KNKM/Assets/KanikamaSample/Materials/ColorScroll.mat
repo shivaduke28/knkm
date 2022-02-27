@@ -20,11 +20,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Emission: 1.5
+    - _Emission: 1.97
     - _Partition: 1
     - _Random: 0
-    - _Rotation: 0.78
-    - _Scale: 0.54
+    - _Rotation: -175.5
+    - _Scale: 0.297
     - _Speed: 0.25
     m_Colors:
     - _Color: {r: 0.26701567, g: 0.26701567, b: 0.26701567, a: 1}
