@@ -13,8 +13,8 @@ Texture2DArray:
   m_ForcedFallbackFormat: 4
   m_DownscaleFallback: 0
   serializedVersion: 2
-  m_ColorSpace: 1
-  m_Format: 108
+  m_ColorSpace: 0
+  m_Format: 109
   m_Width: 64
   m_Height: 64
   m_Depth: 15
